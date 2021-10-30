@@ -1,0 +1,1505 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.735,48.994 ]
+    },
+    "properties": {
+    "sc_gid":0,
+    "capacity_factor":0.139176667,
+    "global_horizontal_irradiance":3.354820967,
+    "capacity_mw":591.4528875,
+    "area_sq_km":18.48290273,
+    "distance_to_transmission_km":0.673353738
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.575,49.022 ]
+    },
+    "properties": {
+    "sc_gid":1,
+    "capacity_factor":0.137450948,
+    "global_horizontal_irradiance":3.306945562,
+    "capacity_mw":596.6472656,
+    "area_sq_km":18.64522705,
+    "distance_to_transmission_km":6.875389424
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414,49.049 ]
+    },
+    "properties": {
+    "sc_gid":2,
+    "capacity_factor":0.136000022,
+    "global_horizontal_irradiance":3.292999983,
+    "capacity_mw":2.8512,
+    "area_sq_km":0.0891,
+    "distance_to_transmission_km":7.901461097
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.688,48.9 ]
+    },
+    "properties": {
+    "sc_gid":3,
+    "capacity_factor":0.141827255,
+    "global_horizontal_irradiance":3.417381763,
+    "capacity_mw":2014.383178,
+    "area_sq_km":62.94947432,
+    "distance_to_transmission_km":2.910129499
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.529,48.927 ]
+    },
+    "properties": {
+    "sc_gid":4,
+    "capacity_factor":0.13782908,
+    "global_horizontal_irradiance":3.327923536,
+    "capacity_mw":3557.400778,
+    "area_sq_km":111.1687743,
+    "distance_to_transmission_km":102.9264234
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.369,48.954 ]
+    },
+    "properties": {
+    "sc_gid":5,
+    "capacity_factor":0.134625465,
+    "global_horizontal_irradiance":3.257651091,
+    "capacity_mw":3142.045688,
+    "area_sq_km":98.18892773,
+    "distance_to_transmission_km":104.5314564
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.208,48.981 ]
+    },
+    "properties": {
+    "sc_gid":6,
+    "capacity_factor":0.131181672,
+    "global_horizontal_irradiance":3.181677818,
+    "capacity_mw":2200.804931,
+    "area_sq_km":68.7751541,
+    "distance_to_transmission_km":106.6722787
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.048,49.008 ]
+    },
+    "properties": {
+    "sc_gid":7,
+    "capacity_factor":0.131270632,
+    "global_horizontal_irradiance":3.164252758,
+    "capacity_mw":544.5869836,
+    "area_sq_km":17.01834324,
+    "distance_to_transmission_km":27.10421224
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.702,48.44 ]
+    },
+    "properties": {
+    "sc_gid":8,
+    "capacity_factor":0.131999984,
+    "global_horizontal_irradiance":3.173000097,
+    "capacity_mw":1.8144,
+    "area_sq_km":0.0567,
+    "distance_to_transmission_km":35.13546031
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.642,48.806 ]
+    },
+    "properties": {
+    "sc_gid":9,
+    "capacity_factor":0.142316163,
+    "global_horizontal_irradiance":3.43193531,
+    "capacity_mw":1726.834444,
+    "area_sq_km":53.96357637,
+    "distance_to_transmission_km":7.744635654
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.483,48.833 ]
+    },
+    "properties": {
+    "sc_gid":10,
+    "capacity_factor":0.139239982,
+    "global_horizontal_irradiance":3.36362052,
+    "capacity_mw":2863.175091,
+    "area_sq_km":89.47422158,
+    "distance_to_transmission_km":8.615699787
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.323,48.86 ]
+    },
+    "properties": {
+    "sc_gid":11,
+    "capacity_factor":0.133161187,
+    "global_horizontal_irradiance":3.22484827,
+    "capacity_mw":3490.928888,
+    "area_sq_km":109.0915277,
+    "distance_to_transmission_km":97.13985707
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.163,48.887 ]
+    },
+    "properties": {
+    "sc_gid":12,
+    "capacity_factor":0.131102115,
+    "global_horizontal_irradiance":3.155847073,
+    "capacity_mw":2759.611781,
+    "area_sq_km":86.23786816,
+    "distance_to_transmission_km":99.44305922
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.003,48.914 ]
+    },
+    "properties": {
+    "sc_gid":13,
+    "capacity_factor":0.130671889,
+    "global_horizontal_irradiance":3.15632987,
+    "capacity_mw":601.9712438,
+    "area_sq_km":18.81160137,
+    "distance_to_transmission_km":28.62238833
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.653,48.347 ]
+    },
+    "properties": {
+    "sc_gid":14,
+    "capacity_factor":0.131198674,
+    "global_horizontal_irradiance":3.168991327,
+    "capacity_mw":1990.570444,
+    "area_sq_km":62.20532637,
+    "distance_to_transmission_km":124.043433
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.495,48.376 ]
+    },
+    "properties": {
+    "sc_gid":15,
+    "capacity_factor":0.133351505,
+    "global_horizontal_irradiance":3.20956707,
+    "capacity_mw":482.4671027,
+    "area_sq_km":15.07709696,
+    "distance_to_transmission_km":95.83273
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.596,48.712 ]
+    },
+    "properties": {
+    "sc_gid":16,
+    "capacity_factor":0.139990419,
+    "global_horizontal_irradiance":3.391606331,
+    "capacity_mw":205.2164109,
+    "area_sq_km":6.413012842,
+    "distance_to_transmission_km":5.131527559
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.437,48.739 ]
+    },
+    "properties": {
+    "sc_gid":17,
+    "capacity_factor":0.137218416,
+    "global_horizontal_irradiance":3.298476219,
+    "capacity_mw":1536.597211,
+    "area_sq_km":48.01866284,
+    "distance_to_transmission_km":87.91229902
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.277,48.766 ]
+    },
+    "properties": {
+    "sc_gid":18,
+    "capacity_factor":0.133244529,
+    "global_horizontal_irradiance":3.203991652,
+    "capacity_mw":3603.035419,
+    "area_sq_km":112.5948568,
+    "distance_to_transmission_km":89.78984273
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.118,48.793 ]
+    },
+    "properties": {
+    "sc_gid":19,
+    "capacity_factor":0.129020631,
+    "global_horizontal_irradiance":3.127936602,
+    "capacity_mw":2015.318855,
+    "area_sq_km":62.97871421,
+    "distance_to_transmission_km":92.27882841
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.958,48.819 ]
+    },
+    "properties": {
+    "sc_gid":20,
+    "capacity_factor":0.135066181,
+    "global_horizontal_irradiance":3.20553565,
+    "capacity_mw":501.5442164,
+    "area_sq_km":15.67325676,
+    "distance_to_transmission_km":16.2928549
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.761,48.224 ]
+    },
+    "properties": {
+    "sc_gid":21,
+    "capacity_factor":0.130074129,
+    "global_horizontal_irradiance":3.157487631,
+    "capacity_mw":132.5263702,
+    "area_sq_km":4.141449069,
+    "distance_to_transmission_km":91.84339672
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.604,48.253 ]
+    },
+    "properties": {
+    "sc_gid":22,
+    "capacity_factor":0.12693803,
+    "global_horizontal_irradiance":3.084133863,
+    "capacity_mw":3670.069753,
+    "area_sq_km":114.6896798,
+    "distance_to_transmission_km":118.8350864
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.447,48.282 ]
+    },
+    "properties": {
+    "sc_gid":23,
+    "capacity_factor":0.132025555,
+    "global_horizontal_irradiance":3.173415422,
+    "capacity_mw":3060.716625,
+    "area_sq_km":95.64739453,
+    "distance_to_transmission_km":113.1988325
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.29,48.311 ]
+    },
+    "properties": {
+    "sc_gid":24,
+    "capacity_factor":0.132682204,
+    "global_horizontal_irradiance":3.215961695,
+    "capacity_mw":188.6664973,
+    "area_sq_km":5.89582804,
+    "distance_to_transmission_km":71.27083725
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.55,48.618 ]
+    },
+    "properties": {
+    "sc_gid":25,
+    "capacity_factor":0.141877487,
+    "global_horizontal_irradiance":3.37934804,
+    "capacity_mw":4.082399753,
+    "area_sq_km":0.127574992,
+    "distance_to_transmission_km":8.253850972
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.391,48.645 ]
+    },
+    "properties": {
+    "sc_gid":26,
+    "capacity_factor":0.135168433,
+    "global_horizontal_irradiance":3.242184401,
+    "capacity_mw":3336.025753,
+    "area_sq_km":104.2508048,
+    "distance_to_transmission_km":80.44101119
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.232,48.672 ]
+    },
+    "properties": {
+    "sc_gid":27,
+    "capacity_factor":0.130681634,
+    "global_horizontal_irradiance":3.149597168,
+    "capacity_mw":2680.677534,
+    "area_sq_km":83.77117295,
+    "distance_to_transmission_km":82.49368665
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.073,48.699 ]
+    },
+    "properties": {
+    "sc_gid":28,
+    "capacity_factor":0.130628049,
+    "global_horizontal_irradiance":3.156668901,
+    "capacity_mw":1577.467913,
+    "area_sq_km":49.29587227,
+    "distance_to_transmission_km":85.19718753
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.712,48.131 ]
+    },
+    "properties": {
+    "sc_gid":29,
+    "capacity_factor":0.131014809,
+    "global_horizontal_irradiance":3.168851376,
+    "capacity_mw":419.1756645,
+    "area_sq_km":13.09923951,
+    "distance_to_transmission_km":103.2895512
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.555,48.16 ]
+    },
+    "properties": {
+    "sc_gid":30,
+    "capacity_factor":0.125930116,
+    "global_horizontal_irradiance":3.067403078,
+    "capacity_mw":3804.739847,
+    "area_sq_km":118.8981202,
+    "distance_to_transmission_km":113.931038
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.398,48.189 ]
+    },
+    "properties": {
+    "sc_gid":31,
+    "capacity_factor":0.129450664,
+    "global_horizontal_irradiance":3.126308441,
+    "capacity_mw":4068.113119,
+    "area_sq_km":127.128535,
+    "distance_to_transmission_km":108.0320844
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.241,48.218 ]
+    },
+    "properties": {
+    "sc_gid":32,
+    "capacity_factor":0.134947643,
+    "global_horizontal_irradiance":3.253168583,
+    "capacity_mw":3478.829513,
+    "area_sq_km":108.7134223,
+    "distance_to_transmission_km":102.3790653
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.084,48.246 ]
+    },
+    "properties": {
+    "sc_gid":33,
+    "capacity_factor":0.136067837,
+    "global_horizontal_irradiance":3.300808907,
+    "capacity_mw":277.7457727,
+    "area_sq_km":8.679555396,
+    "distance_to_transmission_km":33.08912368
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.505,48.524 ]
+    },
+    "properties": {
+    "sc_gid":34,
+    "capacity_factor":0.137789369,
+    "global_horizontal_irradiance":3.342679501,
+    "capacity_mw":1004.99092,
+    "area_sq_km":31.40596626,
+    "distance_to_transmission_km":18.54469646
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.346,48.551 ]
+    },
+    "properties": {
+    "sc_gid":35,
+    "capacity_factor":0.132197708,
+    "global_horizontal_irradiance":3.207385302,
+    "capacity_mw":3703.382269,
+    "area_sq_km":115.7306959,
+    "distance_to_transmission_km":73.00758469
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.187,48.578 ]
+    },
+    "properties": {
+    "sc_gid":36,
+    "capacity_factor":0.129221424,
+    "global_horizontal_irradiance":3.126565933,
+    "capacity_mw":1577.066203,
+    "area_sq_km":49.28331885,
+    "distance_to_transmission_km":75.26460938
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.028,48.604 ]
+    },
+    "properties": {
+    "sc_gid":37,
+    "capacity_factor":0.12881957,
+    "global_horizontal_irradiance":3.114714622,
+    "capacity_mw":1558.805512,
+    "area_sq_km":48.71267227,
+    "distance_to_transmission_km":78.14349105
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.869,48.631 ]
+    },
+    "properties": {
+    "sc_gid":38,
+    "capacity_factor":0.131380826,
+    "global_horizontal_irradiance":3.156936646,
+    "capacity_mw":679.6094273,
+    "area_sq_km":21.2377946,
+    "distance_to_transmission_km":40.92519059
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.709,48.657 ]
+    },
+    "properties": {
+    "sc_gid":39,
+    "capacity_factor":0.128288418,
+    "global_horizontal_irradiance":3.133462667,
+    "capacity_mw":407.6464219,
+    "area_sq_km":12.73895068,
+    "distance_to_transmission_km":25.76245465
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.946,48.936 ]
+    },
+    "properties": {
+    "sc_gid":40,
+    "capacity_factor":0.164000005,
+    "global_horizontal_irradiance":3.761000395,
+    "capacity_mw":61.41743921,
+    "area_sq_km":1.919294975,
+    "distance_to_transmission_km":23.21418217
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.785,48.96 ]
+    },
+    "properties": {
+    "sc_gid":41,
+    "capacity_factor":0.167351305,
+    "global_horizontal_irradiance":3.815994024,
+    "capacity_mw":1396.543655,
+    "area_sq_km":43.64198921,
+    "distance_to_transmission_km":128.2233137
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.624,48.985 ]
+    },
+    "properties": {
+    "sc_gid":42,
+    "capacity_factor":0.157874674,
+    "global_horizontal_irradiance":3.730064154,
+    "capacity_mw":1398.97492,
+    "area_sq_km":43.71796626,
+    "distance_to_transmission_km":134.8650746
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.462,49.009 ]
+    },
+    "properties": {
+    "sc_gid":43,
+    "capacity_factor":0.159707502,
+    "global_horizontal_irradiance":3.787033558,
+    "capacity_mw":1085.221294,
+    "area_sq_km":33.91316543,
+    "distance_to_transmission_km":137.0132832
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.301,49.033 ]
+    },
+    "properties": {
+    "sc_gid":44,
+    "capacity_factor":0.163217127,
+    "global_horizontal_irradiance":3.837797642,
+    "capacity_mw":259.7572863,
+    "area_sq_km":8.117415198,
+    "distance_to_transmission_km":82.63967678
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.663,48.038 ]
+    },
+    "properties": {
+    "sc_gid":45,
+    "capacity_factor":0.128614604,
+    "global_horizontal_irradiance":3.148023605,
+    "capacity_mw":1552.325512,
+    "area_sq_km":48.51017227,
+    "distance_to_transmission_km":115.6917853
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.506,48.067 ]
+    },
+    "properties": {
+    "sc_gid":46,
+    "capacity_factor":0.126385391,
+    "global_horizontal_irradiance":3.08425498,
+    "capacity_mw":3896.232131,
+    "area_sq_km":121.7572541,
+    "distance_to_transmission_km":109.3320661
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.35,48.096 ]
+    },
+    "properties": {
+    "sc_gid":47,
+    "capacity_factor":0.127044722,
+    "global_horizontal_irradiance":3.081558228,
+    "capacity_mw":3698.620734,
+    "area_sq_km":115.5818979,
+    "distance_to_transmission_km":103.2072592
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.193,48.124 ]
+    },
+    "properties": {
+    "sc_gid":48,
+    "capacity_factor":0.134931803,
+    "global_horizontal_irradiance":3.245945454,
+    "capacity_mw":1749.625945,
+    "area_sq_km":54.67581079,
+    "distance_to_transmission_km":97.23336301
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.036,48.153 ]
+    },
+    "properties": {
+    "sc_gid":49,
+    "capacity_factor":0.138004437,
+    "global_horizontal_irradiance":3.331228256,
+    "capacity_mw":1822.284844,
+    "area_sq_km":56.94640137,
+    "distance_to_transmission_km":91.5562448
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.879,48.181 ]
+    },
+    "properties": {
+    "sc_gid":50,
+    "capacity_factor":0.140390709,
+    "global_horizontal_irradiance":3.398284674,
+    "capacity_mw":645.2654273,
+    "area_sq_km":20.1645446,
+    "distance_to_transmission_km":87.01223135
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.722,48.21 ]
+    },
+    "properties": {
+    "sc_gid":51,
+    "capacity_factor":0.142000005,
+    "global_horizontal_irradiance":3.447000027,
+    "capacity_mw":1.296,
+    "area_sq_km":0.0405,
+    "distance_to_transmission_km":6.441565102
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.618,48.403 ]
+    },
+    "properties": {
+    "sc_gid":53,
+    "capacity_factor":0.143268198,
+    "global_horizontal_irradiance":3.451714993,
+    "capacity_mw":824.7251672,
+    "area_sq_km":25.77266147,
+    "distance_to_transmission_km":5.038837944
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.459,48.43 ]
+    },
+    "properties": {
+    "sc_gid":54,
+    "capacity_factor":0.137205392,
+    "global_horizontal_irradiance":3.334654808,
+    "capacity_mw":2462.625534,
+    "area_sq_km":76.95704795,
+    "distance_to_transmission_km":63.95263473
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.301,48.457 ]
+    },
+    "properties": {
+    "sc_gid":55,
+    "capacity_factor":0.131803811,
+    "global_horizontal_irradiance":3.213056803,
+    "capacity_mw":2236.175353,
+    "area_sq_km":69.88047979,
+    "distance_to_transmission_km":65.62176471
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.142,48.484 ]
+    },
+    "properties": {
+    "sc_gid":56,
+    "capacity_factor":0.128161818,
+    "global_horizontal_irradiance":3.13997817,
+    "capacity_mw":1891.006509,
+    "area_sq_km":59.09395342,
+    "distance_to_transmission_km":68.12601369
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.983,48.51 ]
+    },
+    "properties": {
+    "sc_gid":57,
+    "capacity_factor":0.128317341,
+    "global_horizontal_irradiance":3.143041611,
+    "capacity_mw":1819.804219,
+    "area_sq_km":56.86888184,
+    "distance_to_transmission_km":71.30457086
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.824,48.537 ]
+    },
+    "properties": {
+    "sc_gid":58,
+    "capacity_factor":0.129173234,
+    "global_horizontal_irradiance":3.162783384,
+    "capacity_mw":2353.227441,
+    "area_sq_km":73.53835752,
+    "distance_to_transmission_km":75.21447955
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.665,48.563 ]
+    },
+    "properties": {
+    "sc_gid":59,
+    "capacity_factor":0.129954979,
+    "global_horizontal_irradiance":3.18274045,
+    "capacity_mw":642.9767344,
+    "area_sq_km":20.09302295,
+    "distance_to_transmission_km":72.2702722
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.905,48.841 ]
+    },
+    "properties": {
+    "sc_gid":60,
+    "capacity_factor":0.167419001,
+    "global_horizontal_irradiance":3.837852955,
+    "capacity_mw":1377.653063,
+    "area_sq_km":43.0516582,
+    "distance_to_transmission_km":109.4001731
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.744,48.866 ]
+    },
+    "properties": {
+    "sc_gid":61,
+    "capacity_factor":0.165990576,
+    "global_horizontal_irradiance":3.826197624,
+    "capacity_mw":2037.848498,
+    "area_sq_km":63.68276558,
+    "distance_to_transmission_km":125.617691
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.583,48.89 ]
+    },
+    "properties": {
+    "sc_gid":62,
+    "capacity_factor":0.163913637,
+    "global_horizontal_irradiance":3.836190939,
+    "capacity_mw":2150.515069,
+    "area_sq_km":67.2035959,
+    "distance_to_transmission_km":127.4799858
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.422,48.914 ]
+    },
+    "properties": {
+    "sc_gid":63,
+    "capacity_factor":0.162329823,
+    "global_horizontal_irradiance":3.832844019,
+    "capacity_mw":3252.674981,
+    "area_sq_km":101.6460932,
+    "distance_to_transmission_km":129.7790988
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.26,48.938 ]
+    },
+    "properties": {
+    "sc_gid":64,
+    "capacity_factor":0.164712533,
+    "global_horizontal_irradiance":3.848706961,
+    "capacity_mw":4109.996953,
+    "area_sq_km":128.4374048,
+    "distance_to_transmission_km":127.1862014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.099,48.961 ]
+    },
+    "properties": {
+    "sc_gid":65,
+    "capacity_factor":0.160314217,
+    "global_horizontal_irradiance":3.749140024,
+    "capacity_mw":3288.566081,
+    "area_sq_km":102.76769,
+    "distance_to_transmission_km":124.8257472
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.937,48.985 ]
+    },
+    "properties": {
+    "sc_gid":66,
+    "capacity_factor":0.158249453,
+    "global_horizontal_irradiance":3.713247538,
+    "capacity_mw":1594.450575,
+    "area_sq_km":49.82658047,
+    "distance_to_transmission_km":122.9567961
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.776,49.008 ]
+    },
+    "properties": {
+    "sc_gid":67,
+    "capacity_factor":0.15475893,
+    "global_horizontal_irradiance":3.668900728,
+    "capacity_mw":517.7986383,
+    "area_sq_km":16.18120745,
+    "distance_to_transmission_km":118.8012789
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.614,49.031 ]
+    },
+    "properties": {
+    "sc_gid":68,
+    "capacity_factor":0.15760915,
+    "global_horizontal_irradiance":3.711241722,
+    "capacity_mw":73.59984316,
+    "area_sq_km":2.299995099,
+    "distance_to_transmission_km":29.13474301
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.614,47.944 ]
+    },
+    "properties": {
+    "sc_gid":69,
+    "capacity_factor":0.128903195,
+    "global_horizontal_irradiance":3.157450438,
+    "capacity_mw":2376.832866,
+    "area_sq_km":74.27602705,
+    "distance_to_transmission_km":111.6708896
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.458,47.973 ]
+    },
+    "properties": {
+    "sc_gid":70,
+    "capacity_factor":0.126684576,
+    "global_horizontal_irradiance":3.099905968,
+    "capacity_mw":4042.296647,
+    "area_sq_km":126.3217702,
+    "distance_to_transmission_km":105.1047153
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.302,48.002 ]
+    },
+    "properties": {
+    "sc_gid":71,
+    "capacity_factor":0.127025232,
+    "global_horizontal_irradiance":3.085980177,
+    "capacity_mw":1345.950422,
+    "area_sq_km":42.06095068,
+    "distance_to_transmission_km":98.70476221
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.145,48.031 ]
+    },
+    "properties": {
+    "sc_gid":72,
+    "capacity_factor":0.130556822,
+    "global_horizontal_irradiance":3.154075623,
+    "capacity_mw":355.8479344,
+    "area_sq_km":11.12024795,
+    "distance_to_transmission_km":74.89527177
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.832,48.088 ]
+    },
+    "properties": {
+    "sc_gid":73,
+    "capacity_factor":0.141951591,
+    "global_horizontal_irradiance":3.427659512,
+    "capacity_mw":1431.470855,
+    "area_sq_km":44.73346421,
+    "distance_to_transmission_km":80.76490675
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.675,48.116 ]
+    },
+    "properties": {
+    "sc_gid":74,
+    "capacity_factor":0.144619092,
+    "global_horizontal_irradiance":3.492063284,
+    "capacity_mw":2646.400866,
+    "area_sq_km":82.70002705,
+    "distance_to_transmission_km":75.37945322
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.518,48.144 ]
+    },
+    "properties": {
+    "sc_gid":75,
+    "capacity_factor":0.147474959,
+    "global_horizontal_irradiance":3.561122179,
+    "capacity_mw":1056.094833,
+    "area_sq_km":33.00296353,
+    "distance_to_transmission_km":32.38048647
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.73,48.282 ]
+    },
+    "properties": {
+    "sc_gid":76,
+    "capacity_factor":0.142443508,
+    "global_horizontal_irradiance":3.460808277,
+    "capacity_mw":893.2912875,
+    "area_sq_km":27.91535273,
+    "distance_to_transmission_km":25.80187392
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.572,48.309 ]
+    },
+    "properties": {
+    "sc_gid":77,
+    "capacity_factor":0.139810786,
+    "global_horizontal_irradiance":3.388885975,
+    "capacity_mw":1279.667869,
+    "area_sq_km":39.9896209,
+    "distance_to_transmission_km":36.01571286
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414,48.336 ]
+    },
+    "properties": {
+    "sc_gid":78,
+    "capacity_factor":0.135054752,
+    "global_horizontal_irradiance":3.299351931,
+    "capacity_mw":1804.356,
+    "area_sq_km":56.386125,
+    "distance_to_transmission_km":34.29946346
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.256,48.363 ]
+    },
+    "properties": {
+    "sc_gid":79,
+    "capacity_factor":0.13109383,
+    "global_horizontal_irradiance":3.189217806,
+    "capacity_mw":3463.990313,
+    "area_sq_km":108.2496973,
+    "distance_to_transmission_km":58.30180047
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.097,48.39 ]
+    },
+    "properties": {
+    "sc_gid":80,
+    "capacity_factor":0.12997365,
+    "global_horizontal_irradiance":3.124451876,
+    "capacity_mw":3414.674981,
+    "area_sq_km":106.7085932,
+    "distance_to_transmission_km":61.10977086
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.939,48.416 ]
+    },
+    "properties": {
+    "sc_gid":81,
+    "capacity_factor":0.128999516,
+    "global_horizontal_irradiance":3.102354527,
+    "capacity_mw":1144.225491,
+    "area_sq_km":35.75704658,
+    "distance_to_transmission_km":64.63540746
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.78,48.442 ]
+    },
+    "properties": {
+    "sc_gid":82,
+    "capacity_factor":0.131504744,
+    "global_horizontal_irradiance":3.16293335,
+    "capacity_mw":49.87267295,
+    "area_sq_km":1.55852103,
+    "distance_to_transmission_km":8.011098775
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.621,48.469 ]
+    },
+    "properties": {
+    "sc_gid":83,
+    "capacity_factor":0.130896538,
+    "global_horizontal_irradiance":3.204354525,
+    "capacity_mw":1467.896175,
+    "area_sq_km":45.87175547,
+    "distance_to_transmission_km":73.70273099
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.462,48.495 ]
+    },
+    "properties": {
+    "sc_gid":84,
+    "capacity_factor":0.13056007,
+    "global_horizontal_irradiance":3.19928813,
+    "capacity_mw":421.2907137,
+    "area_sq_km":13.1653348,
+    "distance_to_transmission_km":34.36755752
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.863,48.746 ]
+    },
+    "properties": {
+    "sc_gid":85,
+    "capacity_factor":0.169794947,
+    "global_horizontal_irradiance":3.849158525,
+    "capacity_mw":3184.746356,
+    "area_sq_km":99.52332363,
+    "distance_to_transmission_km":116.5652363
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.703,48.771 ]
+    },
+    "properties": {
+    "sc_gid":86,
+    "capacity_factor":0.167032152,
+    "global_horizontal_irradiance":3.843832493,
+    "capacity_mw":1737.666422,
+    "area_sq_km":54.30207568,
+    "distance_to_transmission_km":118.1465739
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.542,48.795 ]
+    },
+    "properties": {
+    "sc_gid":87,
+    "capacity_factor":0.164116189,
+    "global_horizontal_irradiance":3.850824594,
+    "capacity_mw":3494.762466,
+    "area_sq_km":109.2113271,
+    "distance_to_transmission_km":120.1291743
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.381,48.819 ]
+    },
+    "properties": {
+    "sc_gid":88,
+    "capacity_factor":0.164752483,
+    "global_horizontal_irradiance":3.876575232,
+    "capacity_mw":3482.901534,
+    "area_sq_km":108.8406729,
+    "distance_to_transmission_km":122.5712905
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.22,48.843 ]
+    },
+    "properties": {
+    "sc_gid":89,
+    "capacity_factor":0.165555492,
+    "global_horizontal_irradiance":3.851737022,
+    "capacity_mw":4063.040241,
+    "area_sq_km":126.9700075,
+    "distance_to_transmission_km":119.9990499
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.059,48.866 ]
+    },
+    "properties": {
+    "sc_gid":90,
+    "capacity_factor":0.160247177,
+    "global_horizontal_irradiance":3.740610838,
+    "capacity_mw":3954.70755,
+    "area_sq_km":123.5846109,
+    "distance_to_transmission_km":117.493591
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.897,48.89 ]
+    },
+    "properties": {
+    "sc_gid":91,
+    "capacity_factor":0.157113537,
+    "global_horizontal_irradiance":3.690449238,
+    "capacity_mw":3447.5544,
+    "area_sq_km":107.736075,
+    "distance_to_transmission_km":115.501451
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.736,48.913 ]
+    },
+    "properties": {
+    "sc_gid":92,
+    "capacity_factor":0.153578848,
+    "global_horizontal_irradiance":3.648481369,
+    "capacity_mw":1220.549513,
+    "area_sq_km":38.14217227,
+    "distance_to_transmission_km":113.9551867
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.574,48.936 ]
+    },
+    "properties": {
+    "sc_gid":93,
+    "capacity_factor":0.153999582,
+    "global_horizontal_irradiance":3.669989586,
+    "capacity_mw":2364.987375,
+    "area_sq_km":73.90585547,
+    "distance_to_transmission_km":112.9026738
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.413,48.959 ]
+    },
+    "properties": {
+    "sc_gid":94,
+    "capacity_factor":0.152917862,
+    "global_horizontal_irradiance":3.643836021,
+    "capacity_mw":264.5110055,
+    "area_sq_km":8.265968921,
+    "distance_to_transmission_km":83.0517654
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.251,48.982 ]
+    },
+    "properties": {
+    "sc_gid":95,
+    "capacity_factor":0.149484694,
+    "global_horizontal_irradiance":3.58404541,
+    "capacity_mw":420.2254055,
+    "area_sq_km":13.13204392,
+    "distance_to_transmission_km":112.398096
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.089,49.005 ]
+    },
+    "properties": {
+    "sc_gid":96,
+    "capacity_factor":0.150691614,
+    "global_horizontal_irradiance":3.601990938,
+    "capacity_mw":18.31507295,
+    "area_sq_km":0.57234603,
+    "distance_to_transmission_km":25.25622273
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.927,49.027 ]
+    },
+    "properties": {
+    "sc_gid":97,
+    "capacity_factor":0.151510641,
+    "global_horizontal_irradiance":3.603531837,
+    "capacity_mw":12.1824,
+    "area_sq_km":0.3807,
+    "distance_to_transmission_km":18.35335973
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.566,47.851 ]
+    },
+    "properties": {
+    "sc_gid":98,
+    "capacity_factor":0.130213141,
+    "global_horizontal_irradiance":3.184069633,
+    "capacity_mw":1139.238422,
+    "area_sq_km":35.60120068,
+    "distance_to_transmission_km":108.1021556
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.41,47.88 ]
+    },
+    "properties": {
+    "sc_gid":99,
+    "capacity_factor":0.128963009,
+    "global_horizontal_irradiance":3.13883996,
+    "capacity_mw":4078.099913,
+    "area_sq_km":127.4406223,
+    "distance_to_transmission_km":101.2936441
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.254,47.909 ]
+    },
+    "properties": {
+    "sc_gid":100,
+    "capacity_factor":0.128262803,
+    "global_horizontal_irradiance":3.102394819,
+    "capacity_mw":951.9145945,
+    "area_sq_km":29.74733108,
+    "distance_to_transmission_km":94.62471155
+    }
+  }
+]
+}
