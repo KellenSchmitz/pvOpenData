@@ -16,5 +16,13 @@ attribution: 'Map data © <a href="https://www.openstreetmap.org/">OpenStreetMap
     accessToken: API_KEY
 });
 
+let pvData = "https://raw.githubusercontent.com/jzebker/pvOpenData/main/Sunny_Days/Sun_Map/sun_map_aggregated.geojson"
+
+// Grabbing our GeoJSON data.
+d3.json(pvData).then(function(data) {
+    console.log(data);
+  // Creating a GeoJSON layer with the retrieved data.
+  L.geoJson(data).addTo(map);
+});
 // Then we add our 'graymap' tile layer to the map.
 streets.addTo(map);
